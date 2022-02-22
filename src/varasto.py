@@ -20,33 +20,33 @@ class Varasto:
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
-    # def rivimaarayliasdlföjaölsdjflasdlkfjlsdkjfldskjflksdjffs(self):
-    #     if 1 < 10:
-    #         if 2<10:
-    #             if 3<10:
-    #                 if 4>10:
-    #                     print("moi")
-    #     if 1 < 10:
-    #         if 2<10:
-    #             if 3<10:
-    #                 if 4>10:
-    #                     print("moi")
-    #     if 1 < 10:
-    #         if 2<10:
-    #             if 3<10:
-    #                 if 4>10:
-    #                     print("mi")
-    #     if 1 < 10:
-    #         if 2<10:
-    #             if 3<10:
-    #                 if 4>10:
-    #                     print("moi")
-    #     if 1 < 10:
-    #         if 2<10:
-    #             if 3<10:
-    #                 if 4>10:
-    #                     print("moi")
-    #     return self.tilavuus - self.saldo
+    def rivimaarayliasdlföjaölsdjflasdlkfjlsdkjfldskjflksdjffs(self):
+        if 1 < 10:
+            if 2<10:
+                if 3<10:
+                    if 4>10:
+                        print("moi")
+        if 1 < 10:
+            if 2<10:
+                if 3<10:
+                    if 4>10:
+                        print("moi")
+        if 1 < 10:
+            if 2<10:
+                if 3<10:
+                    if 4>10:
+                        print("mi")
+        if 1 < 10:
+            if 2<10:
+                if 3<10:
+                    if 4>10:
+                        print("moi")
+        if 1 < 10:
+            if 2<10:
+                if 3<10:
+                    if 4>10:
+                        print("moi")
+        return self.tilavuus - self.saldo
 
     def lisaa_varastoon(self, maara):
         if maara < 0:

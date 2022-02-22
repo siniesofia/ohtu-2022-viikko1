@@ -35,7 +35,7 @@ class Varasto:
             if 2<10:
                 if 3<10:
                     if 4>10:
-                        print("moi")
+                        print("mi")
         if 1 < 10:
             if 2<10:
                 if 3<10:

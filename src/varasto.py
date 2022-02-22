@@ -20,7 +20,7 @@ class Varasto:
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
-    # def rivimaarayliasdlföjaölsdjflasdlkfjlsdkjfldskjflksdjffs(self):
+    # def rivimaarayliasdlföjaölsdjflasdlkfjldkjfldskjflksdjffs(self):
     #     if 1 < 10:
     #         if 2<10:
     #             if 3<10:
